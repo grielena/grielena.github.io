@@ -1,0 +1,28 @@
+#slogan {
+	font-size: 25px;
+}
+
+body {
+  text-align: center;
+  color: #1E0CD4;
+  background-color: #FF9B6F;
+  font-family: Helvetica;
+
+}
+
+li {
+    display: inline-block;
+    width:25%;
+    color: #580000;
+    font-weight: bolder;
+
+}
+
+hr {
+  width: 550px;
+}
+
+p {
+	font-weight: normal;
+  font-size:18px;
+ }
