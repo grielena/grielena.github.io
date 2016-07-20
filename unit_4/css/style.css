@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya:400,700italic,900);
+#slogan {
+	font-size: 30px;
+  color: #33677F;
+  font-family: 'Alegreya', serif;
+}
+body {
+  text-align: center;
+  font-size: 25px;
+  color: #33677F;
+  background-color: #C5DBE3;
+  font-family: 'Alegreya', serif;
+}
+#Description {
+font-size: 30px;
+}
+ul {
+    text-align: center;
+    list-style-type: none;
+    color: #16817F;
+    font-weight: bold;
+    font-size: 25px;
+    }
+hr {
+  width: 550px;
+}
+p {
+	font-weight: normal;
+  font-size:18px;
+ }
+ #contact {
+  color: #524F4A
+ }
