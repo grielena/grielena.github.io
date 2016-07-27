@@ -1,0 +1,59 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+ }
+#slogan {
+	font-size: 30px;
+  color: #33677F;
+  font-family: 'Alegreya', serif;
+  padding-left: 20em;
+}
+body {
+  text-align: center;
+  font-size: 25px;
+  color: #33677F;
+  background-color: #C5DBE3;
+  font-family: 'Alegreya', serif;
+}
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+a {
+  padding: 20px;
+}
+#one {
+background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+ }
+ #two {
+background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 5px;
+ }
+#Description {
+font-size: 30px;
+}
+ul {
+    text-align: center;
+    list-style-type: none;
+    color: #524F4A;
+    font-weight: bold;
+    font-size: 25px;
+     }
+footer {
+background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+  }
+p {
+	font-weight: normal;
+  font-size:18px;
+ }
+ #contact {
+  color: #524F4A
+ }
