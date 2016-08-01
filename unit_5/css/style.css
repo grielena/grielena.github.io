@@ -1,4 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+div {
+  font-size: 1.2em;
+}
+
 header {
     background-color: #FFED74;
     border: 1px black solid;
@@ -21,6 +26,7 @@ nav {
     background-color: #E8C66A;
     border: 1px black solid;
     padding: 20px;
+
 }
 a {
   padding: 20px;
@@ -55,5 +61,6 @@ p {
   font-size:18px;
  }
  #contact {
-  color: #524F4A
+  color: #524F4A;
  }
+

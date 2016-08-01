@@ -1,0 +1,104 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+div {
+  font-size: 1.2em;
+}
+header {
+    background-color: #F2E0DF;
+    padding: 20px;
+ }
+ h1 {
+font-weight: bold;
+padding-right: 5em;
+    letter-spacing: 3px;
+ }
+#slogan {
+	font-size: 20px;
+  color: #33677F;
+  font-family: 'Alegreya', serif;
+  padding-left: 20em;
+}
+body {
+  text-align: center;
+  font-size: 25px;
+  color: #33677F;
+  background-color: #F2E0DF;
+  font-family: 'Alegreya', serif;
+}
+#event {
+    padding: 20px;
+    float: right;
+    width: 55%;
+  }
+nav {
+    padding: 20px;
+    width: 35%;
+    float: left;
+  display: inline-block;
+}
+nav a { 
+  text-decoration: none;
+  color: #33677F;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+a {
+  padding: 20px;
+}
+#columns_2 {
+  background-color: #F2B4B1;
+    padding: 20px;
+}
+#one {
+    padding: 20px;
+     width: 50%;
+float: right;
+       padding-top: 2em;
+       padding-bottom: 2em;
+   }
+ #two {
+    padding: 5px;
+    float: left;
+    width: 45%;
+       padding-top: 2em;
+       padding-bottom: 3em;
+       line-height: 120%;
+ }
+#Description {
+font-size: 25px;
+font-weight: bold;
+letter-spacing: 3px;
+}
+ul {
+    text-align: center;
+    list-style-type: none;
+    color: #524F4A;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+footer {
+    padding: 20px;
+  }
+p {
+	font-weight: normal;
+  font-size:18px;
+ }
+ #contact {
+  color: #524F4A;
+ }
+
