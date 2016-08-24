@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>About</title>
+	<title>CSS Reset Links</title>
+	<link rel="stylesheet" type="text/css" href="css/reset.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	</head>
+<body>
+	<div class="wrapper">
+		<header>
+			<section id="two_column" class="clearfix">
+			<div id="services">
+<h1>Services</h1> 
+</div>
+</header>
+<div>
+
+<h1>Providing Catering Services for the DC Area</h1>
+
+<p>The Event Staffing provides affordable catering services for Washington, DC, Maryland, Virginia and the surrounding areas.  Our line of services include the following:<p>
+
+<ul>
+<li>Banquet Facility</li>
+<li>Corporate Events</li>
+<li>On-site Catering</li>
+<li>Off-site Catering</li>
+<li>Wedding Catering</li>
+<li>Special Offers</li>
+</ul>
+
+</div>
+</section>
+<footer>
+<p id="contact">Contact us if you're interested in our company's services: <br />
+	Event Staffing <br />
+	Washington, DC <br />
+	Email: <a href="mailto:event@staffing.com">event@staffing.com</a></p>
+</footer>
+</div>
+</body>
+</html>
